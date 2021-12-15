@@ -3,7 +3,7 @@
     "path_prefix": "/",
     "color_scheme": "dark",
     "accent_color": "blue",
-    "base_font": "karla",
+    "base_font": "system-sans",
     "header": {
         "title": "Agency",
         "logo": "images/logo.svg",
