@@ -1,9 +1,9 @@
 {
     "title": "Stackbit Agency Theme",
     "path_prefix": "/",
-    "color_scheme": "light",
-    "accent_color": "green",
-    "base_font": "fraunces",
+    "color_scheme": "dark",
+    "accent_color": "blue",
+    "base_font": "system-sans",
     "header": {
         "title": "Agency",
         "logo": "images/logo.svg",
