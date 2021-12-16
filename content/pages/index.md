@@ -2,6 +2,13 @@
 title: Home
 hide_title: true
 sections:
+  - type: hero_section
+    section_id: hero
+    title: 'Hi, my name is Ivo Santos. I''m a senior UX/UI Designer based in Berlin.'
+    content: >
+      I draw on my passion for understanding the mind to design **intuitive
+      digital products** and **pleasurable user experiences**. [Let's
+      talk](/contact/).
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
@@ -10,13 +17,6 @@ sections:
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
-  - type: hero_section
-    section_id: hero
-    title: 'Hi, my name is Ivo Santos. I''m a senior UX/UI Designer based in Berlin.'
-    content: >
-      I draw on my passion for understanding the mind to design **intuitive
-      digital products** and **pleasurable user experiences**. [Let's
-      talk](/contact/).
   - type: grid_section
     section_id: clients
     title: Clients
