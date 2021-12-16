@@ -2,8 +2,8 @@
     "title": "Ivo Santos",
     "path_prefix": "/",
     "color_scheme": "light",
-    "accent_color": "green",
-    "base_font": "fraunces",
+    "accent_color": "violet",
+    "base_font": "system-sans",
     "header": {
         "title": "Ivo Santos",
         "logo": "/images/180117_logo.png",
