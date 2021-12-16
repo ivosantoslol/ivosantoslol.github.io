@@ -5,9 +5,9 @@ sections:
   - type: hero_section
     section_id: hero
     title: 'Hi, my name is Ivo Santos'
-    content: >-
-      We are a brand and design practice. We work closely with you, your team to
-      deliver inspiring work, which enables your organization to grow. [Let's
+    content: >
+      I draw on my passion for understanding the mind to design **intuitive
+      digital products** and **pleasurable user experiences**. [Let's
       talk](/contact/).
   - type: portfolio_section
     section_id: latest-projects
