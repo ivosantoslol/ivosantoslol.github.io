@@ -1,13 +1,13 @@
 {
-    "title": "Stackbit Agency Theme",
+    "title": "Ivo Santos",
     "path_prefix": "/",
-    "color_scheme": "dark",
-    "accent_color": "blue",
-    "base_font": "system-sans",
+    "color_scheme": "light",
+    "accent_color": "green",
+    "base_font": "fraunces",
     "header": {
-        "title": "Agency",
-        "logo": "images/logo.svg",
-        "logo_alt": "Agency logo",
+        "title": "Ivo Santos",
+        "logo": "/images/180117_logo.png",
+        "logo_alt": "Ivo Santos logo",
         "has_nav": true,
         "nav_links": [
             {
@@ -38,7 +38,7 @@
         ]
     },
     "footer": {
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=agency&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>",
+        "content": "&copy; Ivo Santos. All rights reserved.",
         "has_social": true,
         "social_links": [
             {
@@ -70,5 +70,6 @@
                 "new_window": true
             }
         ]
-    }
+    },
+    "favicon": "/images/180117_logo_small.png"
 }
