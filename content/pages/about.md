@@ -3,15 +3,7 @@ title: About Me
 hide_title: false
 sections:
   - type: content_section
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel
-      venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus
-      magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus
-      sagittis enim est, et semper lectus hendrerit ut.
-
-
-      In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod
-      turpis et nisi fermentum accumsan.
+    content: "Hi, I’m Ivo, nice to meet you!\n\nI’m an UX/UI designer with over 10 years of experience in several industries (automotive, medicine, biometrics, energy…)\n\nI’m driven by my passion in understanding how the mind works to create clean and clear new digital products and elevate the experience of existing ones.\_\n\nI’d love to learn more about you and how I can help you, feel free to send me an email.\n"
     image: images/about.jpg
     image_alt: Me
   - type: grid_section
