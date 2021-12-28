@@ -4,11 +4,11 @@ hide_title: false
 sections:
   - type: form_section
     section_id: contact-form
-    content: >-
-      Let’s build something great together.<br>
+    content: >
+      Let’s build something great together.
 
-      Complete our contact form or send us an email at
-      [email@example.com](mailto:email@example.com).
+      Complete our contact form or send me an email at
+      [santosivosantos@me.com](mailto:email@example.com).
 
 
       ***
@@ -19,16 +19,18 @@ sections:
 
       ### San Francisco
 
+
       1234 Some St.<br>
 
       San Francisco, CA 12345<br>
 
       1-234-556-7890<br>
 
-      [Get directions &rarr;](https://goo.gl/maps/eh6fn7JjMS4vYs337)
+      [Get directions →](https://goo.gl/maps/eh6fn7JjMS4vYs337)
 
 
       ### New York
+
 
       1234 Some St.<br>
 
@@ -36,7 +38,7 @@ sections:
 
       1-234-556-7890<br>
 
-      [Get directions &rarr;](https://goo.gl/maps/eh6fn7JjMS4vYs337)
+      [Get directions →](https://goo.gl/maps/eh6fn7JjMS4vYs337)
     form_id: contactForm
     form_action: /thank-you
     form_fields:
