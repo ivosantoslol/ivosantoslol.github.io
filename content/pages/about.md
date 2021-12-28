@@ -8,7 +8,7 @@ sections:
     image_alt: Me
   - type: cta_section
     section_id: Download CV
-    title: Download M
+    title: Download my CV
     content: >-
       We are always looking for great people to join our team. If you are
       interested in working for Agency, please send an email to
