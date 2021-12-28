@@ -18,7 +18,7 @@ sections:
     image_alt: Illustration
     bg_color: light
 seo:
-  title: 'About '
+  title: About Me
   description: This is the about us page
   extra:
     - name: 'og:type'
