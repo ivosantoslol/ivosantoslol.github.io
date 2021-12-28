@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: Our Story
 hide_title: false
 sections:
   - type: content_section
