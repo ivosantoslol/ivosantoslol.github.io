@@ -7,7 +7,7 @@ sections:
     image: /images/_J3A6997.jpg
     image_alt: Me
   - type: cta_section
-    section_id: CV request
+    section_id: Download CV
     title: Become a Team Player
     content: >-
       We are always looking for great people to join our team. If you are
