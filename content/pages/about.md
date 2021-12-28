@@ -1,98 +1,14 @@
 ---
-title: Our Story
+title: About Me
 hide_title: false
 sections:
   - type: content_section
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel
-      venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus
-      magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus
-      sagittis enim est, et semper lectus hendrerit ut.
-
-
-      In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod
-      turpis et nisi fermentum accumsan.
-    image: images/about.jpg
-    image_alt: Our team in the meeting room
-  - type: grid_section
-    section_id: team
-    title: The Team
-    subtitle: An optional subtitle of the section
-    col_number: three
-    grid_items:
-      - title: Gustav Purpleson
-        image: images/team-1.png
-        subtitle: 'Co-Founder, Creative Director'
-        content: >-
-          Pretium aenean pharetra magna ac placerat vestibulum. Imperdiet sed
-          euismod nisi porta lorem mollis.
-        actions:
-          - label: Twitter
-            url: 'https://twitter.com/'
-            style: icon
-            icon: twitter
-            new_window: true
-      - title: Hilary Ouse
-        image: images/team-2.png
-        subtitle: 'Co-Founder, Creative Director'
-        content: >-
-          Dictum fusce ut placerat orci nulla pellentesque. Ipsum faucibus vitae
-          aliquet nec ullamcorper sit.
-        actions:
-          - label: Twitter
-            url: 'https://twitter.com/'
-            style: icon
-            icon: twitter
-            new_window: true
-      - title: Gordon Norman
-        image: images/team-3.png
-        subtitle: Creative Producer
-        content: >-
-          Interdum velit euismod in pellentesque massa placerat duis ultricies
-          lacus.
-        actions:
-          - label: Twitter
-            url: 'https://twitter.com/'
-            style: icon
-            icon: twitter
-            new_window: true
-          - label: Instagram
-            url: 'https://www.instagram.com/'
-            style: icon
-            icon: instagram
-            new_window: true
-      - title: Parsley Montana
-        image: images/team-4.png
-        subtitle: 'Senior Designer, Motion Graphics'
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        actions:
-          - label: Twitter
-            url: 'https://twitter.com/'
-            style: icon
-            icon: twitter
-            new_window: true
-          - label: Instagram
-            url: 'https://www.instagram.com/'
-            style: icon
-            icon: instagram
-            new_window: true
-      - title: Brandon Guidelines
-        image: images/team-5.png
-        subtitle: Graphic Designer
-        content: >-
-          Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa
-          eget.
-        actions:
-          - label: Twitter
-            url: 'https://twitter.com/'
-            style: icon
-            icon: twitter
-            new_window: true
+    content: "#### Hi, I’m Ivo, nice to meet you!\n\nI’m an UX/UI designer with over 10 years of experience in several industries (automotive, medicine, biometrics, energy…)\n\nI’m driven by my passion in understanding how the mind works to create clean and clear new digital products and elevate the experience of existing ones.\_\n\nI’d love to learn more about you and how I can help you, feel free to send me an email.\n"
+    image: /images/_J3A6997.jpg
+    image_alt: Me
   - type: cta_section
-    section_id: cta
-    title: Become a Team Player
+    section_id: Download CV
+    title: Curriculum vitae
     content: >-
       We are always looking for great people to join our team. If you are
       interested in working for Agency, please send an email to
