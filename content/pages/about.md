@@ -13,7 +13,7 @@ sections:
       download my CV here.
     actions: []
     image_alt: Logo
-    bg_color: none
+    bg_color: light
     type: cta_section
     image: /images/180117_logo_small.png
 seo:
