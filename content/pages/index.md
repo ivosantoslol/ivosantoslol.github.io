@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - type: hero_section
     section_id: hero
-    title: 'Hi, my name is Ivo Santos. I''m a senior UX/UI Designer based in Berlin.'
+    title: Lol
     content: >
       I draw on my passion for understanding the mind to design **intuitive
       digital products** and **pleasurable user experiences**. [Let's
