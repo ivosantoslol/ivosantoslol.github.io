@@ -12,7 +12,7 @@ sections:
       For a detailed insight over my academic/professional history please
       download my CV here.
     actions: []
-    image_alt: lorem-ipsum
+    image_alt: Logo
     bg_color: none
     type: cta_section
     image: /images/180117_logo_small.png
