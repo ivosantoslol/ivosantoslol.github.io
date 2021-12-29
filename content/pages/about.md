@@ -7,7 +7,7 @@ sections:
     actions: []
     type: hero_section
   - section_id: lorem-ipsum
-    title: Download C
+    title: Curri
     content: >
       For a detailed insight over my academic/professional history please
       download my CV here.
