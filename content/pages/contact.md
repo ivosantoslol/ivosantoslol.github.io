@@ -4,11 +4,7 @@ hide_title: false
 sections:
   - type: form_section
     section_id: contact-form
-    content: >
-      Let’s build something great together.
-
-      Complete this contact form or send me an email at
-      <santosivosantos@me.com>.
+    content: "Let’s build something great together.\nFor an in depth description of some of my work complete the contact form or send me an email at\_<santosivosantos@me.com>\_requesting the extended .PDF version of my portfolio.\n"
     form_id: contactForm
     form_action: /thank-you
     form_fields:
