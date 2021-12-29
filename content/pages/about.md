@@ -13,7 +13,7 @@ sections:
       For a detailed insight over my academic/professional history please
       download my CV here.
 
-    image: /images/180117_logo.png
+    image: /images/_J3A6997-0e3fcfee.jpg
     image_alt: Illustration
     bg_color: light
 seo:
