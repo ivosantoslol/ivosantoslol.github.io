@@ -1,20 +1,20 @@
 ---
-title: Journal
+title: Blog
 subtitle: 'News, tips and highlights'
 hide_title: false
 col_number: three
 seo:
-  title: Journal
-  description: This is the journal page
+  title: Blog
+  description: This is the blog page
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Journal
+      value: Blog
       keyName: property
     - name: 'og:description'
-      value: This is the journal page
+      value: This is the blog page
       keyName: property
     - name: 'og:image'
       value: images/post-1.jpg
