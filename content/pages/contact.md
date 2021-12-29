@@ -26,6 +26,7 @@ sections:
           - Branding
           - Design
           - Digital
+        is_required: false
       - input_type: textarea
         name: message
         label: Message
