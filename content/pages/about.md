@@ -9,11 +9,16 @@ sections:
   - type: cta_section
     section_id: Download CV
     title: Curriculum vitae
-    content: >-
-      We are always looking for great people to join our team. If you are
-      interested in working for Agency, please send an email to
-      [email@example.com](mailto:email@example.com) with your CV and which
-      position you are interested in.
+    content: >+
+      For a detailed insight over my academic/professional history please
+      download my CV here.
+
+
+      For an in depth description of some of my work please send an email to
+      <santosivosantos@me.com> requesting a custom .PDF version of my portfolio.
+
+
+
     image: images/cta-about.svg
     image_alt: Illustration
     bg_color: light
