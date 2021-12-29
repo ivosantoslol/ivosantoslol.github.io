@@ -14,6 +14,7 @@ sections:
     image_alt: Me
     bg_color: none
     type: cta_section
+    image: /images/180117_logo_small.png
 seo:
   title: About Me
   description: This is the about me page
