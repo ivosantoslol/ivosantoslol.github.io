@@ -18,7 +18,6 @@ sections:
     type: cta_section
     image: /images/180117_logo_small.png
   - section_id: lorem-ipsum
-    title: lorem-ipsum
     content: >-
       Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
       efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
