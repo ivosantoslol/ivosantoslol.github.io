@@ -15,14 +15,6 @@ sections:
     bg_color: none
     type: cta_section
     image: /images/_J3A6997-0e3fcfee.jpg
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    subtitle: lorem-ipsum
-    layout_style: mosaic
-    projects_number: 0
-    view_all_label: lorem-ipsum
-    view_all_url: '#'
-    type: portfolio_section
 seo:
   title: About Me
   description: This is the about me page
