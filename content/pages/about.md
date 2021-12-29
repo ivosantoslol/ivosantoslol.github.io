@@ -15,7 +15,6 @@ sections:
     bg_color: none
     type: cta_section
     image: /images/_J3A6997-0e3fcfee.jpg
-    title: 'Hi, I’m Ivo, nice to meet you!'
 seo:
   title: About Me
   description: This is the about me page
