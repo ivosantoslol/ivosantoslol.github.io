@@ -3,7 +3,7 @@ title: About Me
 hide_title: false
 sections:
   - type: content_section
-    content: "#### Hi, I’m Ivo, nice to meet you!\n\nI’m an UX/UI designer with over 10 years of experience in several industries (automotive, medicine, biometrics, energy…)\n\nI’m driven by my passion in understanding how the mind works to create clean and clear new digital products and elevate the experience of existing ones.\_\n"
+    content: "#### Hi, I’m Ivo, nice to meet you!\n\nI’m an UX/UI designer with over 10 years of experience in several industries \_(automotive, medicine, industrial automation…)\n\nI’m driven by my passion in understanding how the mind works to create clean and clear new digital products and elevate the experience of existing ones.\_\n"
     image: /images/_J3A6997.jpg
     image_alt: Me
   - type: cta_section
