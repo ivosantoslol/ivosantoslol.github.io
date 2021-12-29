@@ -3,7 +3,7 @@
     "path_prefix": "/",
     "color_scheme": "dark",
     "accent_color": "blue",
-    "base_font": "system-sans",
+    "base_font": "fraunces",
     "header": {
         "title": "Ivo Santos",
         "logo": "/images/180117_logo.png",
