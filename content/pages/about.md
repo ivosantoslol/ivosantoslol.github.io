@@ -23,6 +23,7 @@ sections:
     image_alt: lorem-ipsum
     bg_color: none
     type: cta_section
+    image: /images/_J3A6997-0e3fcfee.jpg
 seo:
   title: About Me
   description: This is the about me page
