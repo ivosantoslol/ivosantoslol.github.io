@@ -13,12 +13,6 @@ sections:
       For a detailed insight over my academic/professional history please
       download my CV here.
 
-
-      For an in depth description of some of my work please send an email to
-      <santosivosantos@me.com> requesting a custom .PDF version of my portfolio.
-
-
-
     image: /images/180117_logo.png
     image_alt: Illustration
     bg_color: light
