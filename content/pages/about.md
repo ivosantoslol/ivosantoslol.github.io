@@ -19,7 +19,7 @@ sections:
 
 
 
-    image: images/cta-about.svg
+    image: /images/180117_logo.png
     image_alt: Illustration
     bg_color: light
 seo:
