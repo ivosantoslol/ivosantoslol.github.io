@@ -21,7 +21,7 @@ sections:
         icon: dribbble
         new_window: false
         no_follow: false
-    image_alt: lorem-ipsum
+    image_alt: Me
     bg_color: none
     type: cta_section
     image: /images/_J3A6997-0e3fcfee.jpg
