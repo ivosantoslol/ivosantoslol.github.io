@@ -3,7 +3,7 @@ title: About Me
 hide_title: false
 sections:
   - section_id: About Me
-    content: "\n\nI’m an UX/UI designer with over 10 years of experience in several industries (automotive, medicine, industrial automation…)\n\nI’m driven by my passion in understanding how the mind works to build clean and clear new digital products and elevate the experience of existing ones.\_\n\nGrowing up without internet access in the country side of Portugal, I was an annoyingly curious kid.\_\n\nI wanted to know what everything was, how everything worked and why were things one way and not another.\n\nAs luck would have it I grew up to become an UX/UI designer.\_\n\nNow I get to wear many hats. I get to learn the whats, hows and whys of people across a multitude of fields in order to better address their issues and needs.\n\nTo find out more about my academic/professional history download a .PDF version of my Curriculum Vitae in the link bellow.\n"
+    content: "Hi, I’m Ivo, nice to meet you!\n\nI’m an UX/UI designer with over 10 years of experience in several industries like automotive (BMW, MINI), medicine (Avateramedical) , biometrics (CrossMatch Technologies) energy/industrial automation (SmartB, Phoenix Contact Smart Business).\n\nI’m driven by my passion in understanding how the mind works to build clean and clear new digital products and elevate the experience of existing ones.\_\n\nTo find out more about my academic/professional history download a .PDF version of my Curriculum Vitae in the link bellow.\n"
     actions:
       - label: Download CV
         url: '#'
